@@ -1,2 +1,2 @@
 # blocklist-cipher
-Known cipher domains.
+Known FiveM cipher domains.
